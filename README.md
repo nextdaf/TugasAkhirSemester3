@@ -1,2 +1,5 @@
-# TugasAkhirSemester3
-Tugas Akhir Semester 3 Politeknik Negeri Jember PSDKU Sidoarjo
+# KAFTAPUS 2
+| Nomor  | Anggota |
+| ------------- | ------------- |
+| 1  | Mas Ferdi  |
+| 2  | Bunda Lya  |
